@@ -1,6 +1,4 @@
-## weiner.dev
-
-Ben Weiner
+## Ben Weiner
 
 ### About me
 
